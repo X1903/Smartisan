@@ -1,0 +1,39 @@
+.gray-box {
+  margin-bottom: 0;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 8px;
+  border: 1px solid #dcdcdc;
+  box-shadow: 0 3px 8px -6px rgba(0,0,0,.1);
+}
+.shopping-info {
+  margin: 10px 0 0 0;
+  overflow: hidden;
+  background: #fff;
+  text-align: center;
+}
+.shopping-info li .online-services {
+  cursor: pointer;
+}
+.shopping-info li {
+  float: left;
+  width: 304px;
+  height: 153px;
+}
+
+.shopping-info li span {
+  margin: 33px auto 5px;
+  display: block;
+  width: 32px;
+  height: 36px;
+}
+.shopping-info li h5 {
+  color: #000;
+  font-size: 15px;
+  line-height: 25px;
+}
+.shopping-info li h6 {
+  color: #A8A8A8;
+  font-size: 12px;
+  line-height: 24px;
+}
